@@ -1,0 +1,309 @@
+html,
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.bg-nav {
+    background-color: rgb(214, 212, 212) !important;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+
+.font {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px !important;
+    font-weight: bold;
+}
+
+.font2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px !important;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+    margin-right: -1px;
+}
+
+.whitec {
+    color: white;
+}
+
+.us {
+    height: auto;
+}
+
+.white {
+    height: 5vh;
+}
+
+.PMDS {
+    font-family: 'Dynalight', cursive;
+    font-size: 8vh;
+    font-weight: bold;
+
+}
+
+.back {
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact {
+    height: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.git {
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 70px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.wcard {
+    background-image: url("../img/email.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: multiply;
+}
+
+.rcard {
+    background-image: url("../img/tel.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: multiply;
+}
+
+.icard {
+    background-image: url("../img/insta.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: multiply;
+}
+
+.carrdd {
+    width: 50px;
+    height: 350px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+}
+
+.MAIL {
+    margin-top: 20%;
+    color: white;
+    text-decoration: none;
+}
+
+.contact-img {
+    width: 90px;
+    filter: invert(1);
+}
+
+.carrdd a {
+    text-decoration: none;
+}
+
+.plug {
+    background-color: black;
+    color: rgba(255, 255, 255, 0.431);
+}
+
+.pluglink {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.505);
+}
+
+.welcome {
+    height: auto;
+    width: 100%;
+    background-color: black;
+}
+
+.streep {
+    width: 80%;
+    background-color: white;
+    height: 5px;
+    border-radius: 20px;
+    margin-left: 10%;
+}
+
+.black-text {
+    background-color: black;
+
+}
+
+.backgroundimagepos {
+    background-image: url("../img/fea_newburyport-1soc.jpg");
+    background-repeat: no-repeat;
+    background-size: 600px;
+}
+
+.con-but {
+    width: 60% !important;
+}
+
+.whotit {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.who {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.banner {
+    height: 500px;
+    background-color: black;
+    color: white;
+
+}
+
+.preservices {
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    min-height: 98vh;
+    background-size: cover;
+    background-image: url("../img/PremiumBackground.jpg");
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+}
+
+.premcard {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    color: black;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+h5 {
+    font-size: 15px !important;
+}
+
+.italictext {
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    font-size: 0.8rem;
+}
+
+.super {
+    background-image: url("../img/super.png");
+    width: 100%;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: center;
+    margin-left: 0px !important;
+}
+
+.motor {
+    background-image: url("../img/motor.jpg");
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: center;
+    margin-left: 0px !important;
+}
+
+.boat {
+    background-image: url("../img/boat.jpg");
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: center;
+    margin-left: 0px !important;
+}
+
+.rv {
+    background-image: url("../img/camper.jpg");
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: center;
+    margin-left: 0px !important;
+}
+
+.classic {
+    background-image: url("../img/classic.jpg");
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: center;
+    margin-left: 0px !important;
+}
+
+.custum {
+    background-image: url("../img/custum.jpg");
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: center;
+    margin-left: 0px !important;
+}
+
+.cont {
+    background-image: url("../img/contact.png");
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: center;
+    margin-left: 0px !important;
+}
